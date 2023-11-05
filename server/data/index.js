@@ -17,6 +17,7 @@ export const users = [
     firstName: "test",
     lastName: "me",
     email: "aaaaaaa@gmail.com",
+    username: "test1234",
     password: "$2b$10$dsasdgsagasda//G9JxQ4bQ8KXf4OAIe/X/AK9skyWUy",
   },
   {
